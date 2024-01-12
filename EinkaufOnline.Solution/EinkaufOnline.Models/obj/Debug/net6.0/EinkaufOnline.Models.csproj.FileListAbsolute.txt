@@ -1,0 +1,12 @@
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\bin\Debug\net6.0\EinkaufOnline.Models.deps.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\bin\Debug\net6.0\EinkaufOnline.Models.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\bin\Debug\net6.0\EinkaufOnline.Models.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.AssemblyInfoInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.AssemblyInfo.cs
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.sourcelink.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\refint\EinkaufOnline.Models.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\EinkaufOnline.Models.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Models\obj\Debug\net6.0\ref\EinkaufOnline.Models.dll
