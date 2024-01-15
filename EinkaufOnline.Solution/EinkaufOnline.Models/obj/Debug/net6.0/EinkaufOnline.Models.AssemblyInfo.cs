@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EinkaufOnline.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3786b37fd69eabb03ad31db44704aa1c7116b9e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e839e7719f998b00f4709ba565ff7ccfd78f5172")]
 [assembly: System.Reflection.AssemblyProductAttribute("EinkaufOnline.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EinkaufOnline.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,7 +3,7 @@
 
 @if(Products == null)
 {
-    <h3>Loading Products...</h3>
+    <DisplaySpinner/>
 }
 else
 {
@@ -12,13 +12,19 @@ else
     if (productCount > 0)
     {
         const int itemsPerRow = 4;
-        var productRowList = new List<ProductDto>();
-        for(int i = 0; i < productCount; i++)
+        var groupedProductsByCategory = from product in Products
+                                        group product by product.CategoryId into prodByCatGroup
+                                        orderby prodByCatGroup.Key
+                                        select prodByCatGroup;
+
+
+        @foreach (var prodGroup in GetGroupedProductsByCategory())
         {
-            productRowList = Products.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
+            <h4>@GetCategoryName(prodGroup)</h4>
             <div class="row mt-3">
-                <DisplayProducts Products="@productRowList"></DisplayProducts>
+                <DisplayProducts Products="@prodGroup"></DisplayProducts>
             </div>
+            <hr class="mb-3"/>
         }
     }
 }

@@ -3,6 +3,8 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.25.fbawcnlws1.js
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.pdb
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Web.dll
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Web.pdb
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
@@ -284,6 +286,7 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
@@ -293,6 +296,7 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.pdb.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
@@ -594,6 +598,8 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\EinkaufOnline.Models.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\EinkaufOnline.Models.pdb
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\EinkaufOnline.Web.csproj.AssemblyReference.cache
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\EinkaufOnline.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\EinkaufOnline.Web.AssemblyInfoInputs.cache
@@ -810,6 +816,8 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\slp2oexhfs.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\hwhbe7i15h.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\pu5sbj0k8s.gz
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\fsiilnubit.gz
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\hoou77y083.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\3ckxxowvlv.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\xsxuj07zox.gz
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\uji5zuu4c3.gz
@@ -818,11 +826,5 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Einkau
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\refint\EinkaufOnline.Web.dll
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\EinkaufOnline.Web.pdb
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\ref\EinkaufOnline.Web.dll
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.dll
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.pdb
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.dll.gz
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\wwwroot\_framework\EinkaufOnline.Models.pdb.gz
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\EinkaufOnline.Models.dll
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\bin\Debug\net6.0\EinkaufOnline.Models.pdb
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\fsiilnubit.gz
-C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\compressed\hoou77y083.gz
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplayProducts.razor.rz.scp.css
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\EinkaufOnline.Solution\EinkaufOnline.Web\obj\Debug\net6.0\scopedcss\Pages\DisplaySpinner.razor.rz.scp.css

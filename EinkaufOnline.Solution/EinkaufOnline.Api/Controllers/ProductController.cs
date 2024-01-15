@@ -21,21 +21,22 @@ namespace EinkaufOnline.Api.Controllers
         }
 
         [HttpGet]
-        [Route("{userId}/GetItems")]
+        [Route("")]
         public async Task<ActionResult<IEnumerable<ProductDto>>> GetItems()
         {
             try
             {
                 var products = await this.productRepository.GetItems();
+                var productcategories = await this.productRepository.GetCategories();
 
 
-                if (products == null)
+                if (products == null || productcategories == null)
                 { 
                    return NotFound();
                 }
                 else
                 {
-                    var productDtos = products.ConvertToDto();
+                    var productDtos = products.ConvertToDto(productcategories);
 
                     return Ok(productDtos);
                 }
@@ -49,6 +50,35 @@ namespace EinkaufOnline.Api.Controllers
                
             }
         }
+        //[HttpGet]
+        //[Route("{userId}/GetItems")]
+        //public async Task<ActionResult<IEnumerable<ProductDto>>> GetItems()
+        //{
+        //    try
+        //    {
+        //        var products = await this.productRepository.GetItems();
+
+
+        //        if (products == null)
+        //        { 
+        //           return NotFound();
+        //        }
+        //        else
+        //        {
+        //            var productDtos = products.ConvertToDto();
+
+        //            return Ok(productDtos);
+        //        }
+
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        return StatusCode(StatusCodes.Status500InternalServerError,
+        //                        "Error retrieving data from the database" + Environment.NewLine +
+        //                        ex.Message);
+               
+        //    }
+        //}
         [HttpGet("{id:int}")]
         public async Task<ActionResult<ProductDto>> GetItem(int id)
         {
@@ -62,10 +92,11 @@ namespace EinkaufOnline.Api.Controllers
                 }
                 else
                 {
-                    
+                    //var productCategory = await this.productRepository.GetCategory(id);
                     var productDto = product.ConvertToDto();
-
-                    return Ok(productDto);
+                    return  Ok(productDto);
+                    //var productDto = product.ConvertToDto();
+                    //return Ok(productDto);
                 }
 
             }
