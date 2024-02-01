@@ -1,7 +1,7 @@
 {
   "entryAssembly": "EinkaufOnline.Web",
   "resources": {
-    "hash": "sha256-QsdqjsaVVOE0kjxWvu9rAbd9RHn3mZEVqhYxQwprkrE=",
+    "hash": "sha256-+rPUArY76QynWCiiuDQx7vmB29Dshdpnp3bX+IFTgiE=",
     "runtime": {
       "dotnet.6.0.25.fbawcnlws1.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -200,12 +200,12 @@
       "mscorlib.dll": "sha256-veli+XvWHzkA3s4t4DKI+XiyNMpfHQjiO002+ExANkU=",
       "netstandard.dll": "sha256-O9JhHo5KqxkmwmapuxuhG/iMRV7RHcrCDO9z+yv+8yI=",
       "System.Private.CoreLib.dll": "sha256-6rKu8tPdUGsvbSpesoNMVzbx7bNqPRMPV34eI7vSYaQ=",
-      "EinkaufOnline.Models.dll": "sha256-aU5M1oSBHf5uJr/ZY29tB3EbpcT4KtfgFAmAcEcTD5c=",
-      "EinkaufOnline.Web.dll": "sha256-wJSR8915oG7PGoMfMLsgC/fPJCNea2Etm4b4MjFoVPk="
+      "EinkaufOnline.Models.dll": "sha256-Ik3Ux+lwSvAswi1zb0aHLp+JrNCaXT7sOhQBf1x/Zmc=",
+      "EinkaufOnline.Web.dll": "sha256-GPGMb/oqizKiX2688e60a9xVIktm5R5b361qx8Aoelw="
     },
     "pdb": {
-      "EinkaufOnline.Models.pdb": "sha256-lRAhkxM7Jk/SQytVdCmOJ7EIwK9bIEI6/8DQo/JoyeE=",
-      "EinkaufOnline.Web.pdb": "sha256-tFGLSpmX3d+GjYTGvgzIiYVMds2Ffa+5zUKvK1Aghfo="
+      "EinkaufOnline.Models.pdb": "sha256-JmdLePK4AGKqr0s5zM2FIrKnGkO2aFHo/5Xr/kuX5l4=",
+      "EinkaufOnline.Web.pdb": "sha256-YZVezWiKDxSgS6IIXJgZPKJsM/l47esH00iZSQ9U/5s="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
