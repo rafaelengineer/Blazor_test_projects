@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QqoZ3PsL8A00BxIn4yJq+M+W9EDy4M9LWJ2SaoxzDu8Hyn8ImisBWBm4FCuHnu8MPHsCewbS3D1NFnQplJemnQ==",
+  "dgSpecHash": "+IqPCNvxbj5Lmjq9MxeDA/7cvWCvuQaFOxfcn3a+CYywAqMWpgWOhD5M3vrP4bzo11rFyd9AKicmLVLyb/ZRcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload\\BlazorFileUpload\\Client\\BlazorFileUpload.Client.csproj",
+  "projectFilePath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload_\\BlazorFileUpload\\Client\\BlazorFileUpload.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafael_so\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
     "C:\\Users\\rafael_so\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",

@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorFileUpload.Client",
   "resources": {
-    "hash": "sha256-eBaXQzRV+PegRgYTIv1WniEP8rHFQOcIuR6EzBWX1k8=",
+    "hash": "sha256-tgCBMxpP7ZRldwbm+TMniJlzI6Q9/fc1mcW0N/sZDmU=",
     "runtime": {
       "dotnet.7.0.14.j6gazoz80k.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -203,12 +203,12 @@
       "mscorlib.dll": "sha256-YcsJInaT/kw3Vrm+SESegPxvT/Lr9RE6rE/KnxWIIc0=",
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
-      "BlazorFileUpload.Shared.dll": "sha256-M1SBgWQFLEf+OPGUzcAC/re1tDgLMeR047+Xik5zK1w=",
-      "BlazorFileUpload.Client.dll": "sha256-b82A3NTyLu+lMJr80V84CS/5dH1oHCGR4UwWz78Fh/s="
+      "BlazorFileUpload.Shared.dll": "sha256-EsXJGq1S/c4fG5DRM1XQHQ/oq6Jf2a6boH5u589UgHs=",
+      "BlazorFileUpload.Client.dll": "sha256-k49i9jXyrTF6WL2nd6y31aCyIxIgXJYsJEdv19jJzg8="
     },
     "pdb": {
-      "BlazorFileUpload.Shared.pdb": "sha256-rli0uOOyQcyrYubhl/+SaP0wybEpR/0NVBlq80YT7IE=",
-      "BlazorFileUpload.Client.pdb": "sha256-kaA5hW8ybR6spDFoLrZcv+dsKz3xPoBeXs5p7RJ/POY="
+      "BlazorFileUpload.Shared.pdb": "sha256-JM2djT6+VtNPmTTzHGMRQXfvI1dWtI+dy06yrLx+y38=",
+      "BlazorFileUpload.Client.pdb": "sha256-L8520pZCMQeu/fkAL1A8l1u1WRsdxokxWl8+y8gJHJ8="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

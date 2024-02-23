@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload\\BlazorFileUpload\\Shared\\BlazorFileUpload.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload_\\BlazorFileUpload\\Shared\\BlazorFileUpload.Shared.csproj",
       "projectName": "BlazorFileUpload.Shared",
-      "projectPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload\\BlazorFileUpload\\Shared\\BlazorFileUpload.Shared.csproj",
+      "projectPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload_\\BlazorFileUpload\\Shared\\BlazorFileUpload.Shared.csproj",
       "packagesPath": "C:\\Users\\rafael_so\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload\\BlazorFileUpload\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\BlazorFileUpload_\\BlazorFileUpload\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

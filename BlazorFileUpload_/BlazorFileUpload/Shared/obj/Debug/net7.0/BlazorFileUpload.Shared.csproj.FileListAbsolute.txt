@@ -10,3 +10,15 @@ C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\Blazor
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload\BlazorFileUpload\Shared\obj\Debug\net7.0\refint\BlazorFileUpload.Shared.dll
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.pdb
 C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload\BlazorFileUpload\Shared\obj\Debug\net7.0\ref\BlazorFileUpload.Shared.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\bin\Debug\net7.0\BlazorFileUpload.Shared.deps.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\bin\Debug\net7.0\BlazorFileUpload.Shared.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\bin\Debug\net7.0\BlazorFileUpload.Shared.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.AssemblyInfoInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.AssemblyInfo.cs
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.sourcelink.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\refint\BlazorFileUpload.Shared.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\BlazorFileUpload.Shared.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\obj\Debug\net7.0\ref\BlazorFileUpload.Shared.dll

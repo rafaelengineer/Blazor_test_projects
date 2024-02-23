@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BlazorFileUpload.Shared
-build_property.ProjectDir = C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload\BlazorFileUpload\Shared\
+build_property.ProjectDir = C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\BlazorFileUpload_\BlazorFileUpload\Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
