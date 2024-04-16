@@ -1,0 +1,23 @@
+@page "/latexmath"
+@inject Microsoft.JSInterop.IJSRuntime jsRun
+
+<h1>Exemplo de Fórmula Matemática com KaTeX</h1>
+
+<p>Aqui está uma fórmula: \(E = mc^2\)</p>
+
+<div id="katex-container"></div>
+
+@code {
+    private async Task RenderKaTeX()
+    {
+        await jsRun.InvokeVoidAsync("renderKaTeX", "katex-container", "E = mc^2");
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await RenderKaTeX();
+        }
+    }
+}

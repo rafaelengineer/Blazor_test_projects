@@ -1,0 +1,31 @@
+@page "/bu"
+
+@using System.Globalization
+
+
+<h1 @directive:attribute="someValue">Hello</h1>
+<br>
+<label>Name = @Name</label>
+<input @bind-value=Name/>
+<br>
+<label>Registration = @registration</label>
+<input @bind-value=registration/>
+
+<br>
+<label>Date of birth = @DateOfBirth?.ToString("MMMM d, yyyy")</label>
+<input @bind-value=DateOfBirth @bind-value:format="yyyy-MM-dd"/>
+<br>
+<br>
+<label>Bank balance = @BankBalance</label>
+<input @bind-value=BankBalance @bind-value:culture=Turkish/>
+double balance
+@code
+{
+  private double registration = 0320;
+  private string Name = "Nobody";
+  private DateTime? DateOfBirth;
+  private decimal? BankBalance;
+
+  private CultureInfo Turkish = CultureInfo.GetCultureInfo("tr-TR");
+
+}

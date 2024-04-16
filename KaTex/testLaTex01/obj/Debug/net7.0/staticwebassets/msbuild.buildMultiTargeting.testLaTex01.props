@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\testLaTex01.props" />
+</Project>

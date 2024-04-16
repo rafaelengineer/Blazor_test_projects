@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ey8rCWDlYJw27zt4s8dMAEedqo8tij5ZfsisXjgOw4A=",
+  "Source": "SignalRIntro.Api",
+  "BasePath": "_content/SignalRIntro.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\obj\\Debug\\net8.0\\compressed\\6p28mv9uws.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\obj\\Debug\\net8.0\\scopedcss\\bundle\\CustomInputExample.styles.css",
+      "PackagePath": "staticwebassets\\CustomInputExample.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\Custom Input\\CustomInputExample\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CustomInputExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CustomInputExample.props",
+      "PackagePath": "build\\CustomInputExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CustomInputExample.props",
+      "PackagePath": "buildMultiTargeting\\CustomInputExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CustomInputExample.props",
+      "PackagePath": "buildTransitive\\CustomInputExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

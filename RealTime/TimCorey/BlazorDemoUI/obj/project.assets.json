@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\DataAccessLibrary\\DataAccessLibrary.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rafael_so\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\BlazorDemoUI\\BlazorDemoUI.csproj",
+      "projectName": "BlazorDemoUI",
+      "projectPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\BlazorDemoUI\\BlazorDemoUI.csproj",
+      "packagesPath": "C:\\Users\\rafael_so\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\BlazorDemoUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rafael_so\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+              "projectPath": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\DataAccessLibrary\\DataAccessLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\DataAccessLibrary\\DataAccessLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\rafael_so\\OneDrive - TSEA\\Documents\\02 - teste codes\\03 - Blazor\\RealTime\\TimCorey\\DataAccessLibrary\\DataAccessLibrary.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.sourcelink.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\03 - Blazor\TimCorey - ServerApp\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb

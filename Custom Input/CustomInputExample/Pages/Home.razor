@@ -1,0 +1,60 @@
+﻿@page "/"
+
+<h3>Custom Input Fields Example</h3>
+
+<div class="form-group">
+    <label for="customInput">Enter a value:</label>
+    <input type="text" id="customInput" @oninput="UpdateValue" />
+</div>
+
+<p>Value with constant: <strong>@customValue</strong></p>
+
+@code {
+    private string customValue = string.Empty;
+    private const string ConstantValue = "Hello!";
+
+    private void UpdateValue(ChangeEventArgs e)
+    {
+        customValue = e.Value.ToString() + " " + ConstantValue;
+    }
+    }
+____________________________________________________________
+<br>
+<br>
+<div class="form-group">
+    <label for="customNumberInput">Enter a numerical value:</label>
+    <input type="text" id="customNumberInput" @onchange="UpdateNumberValue" />
+
+</div>
+
+<p>Value inserted: <strong>@stInserted</strong></p>
+<p>Value plus the constant: <strong>@customNumberValue</strong></p>
+
+@code{
+    private double customNumberValue = 0;
+    private const double ConstantNumberValue = 3.141592654;
+    private string stInserted = string.Empty;
+
+    private void UpdateNumberValue(ChangeEventArgs e)
+    {
+        stInserted = e.Value.ToString();
+        try{
+            string[] stNumber = stInserted.Split(',', '.');
+            if(stNumber.Length>2)  throw new ArgumentException("Input length must be 1 or less.");
+            else {
+                if(stNumber.Length==1) {
+                    int Number = Int32.Parse(stNumber[0]);
+                    customNumberValue = ConstantNumberValue + Number ;
+                    }
+                else{
+                int Number = Int32.Parse(stNumber[0]);
+                int nDecimals = stNumber[1].Length;
+                int decimals = Int32.Parse(stNumber[1]);
+                customNumberValue = ConstantNumberValue + Number + decimals * Math.Pow(10, -nDecimals) ;
+                }
+                }
+        }catch(Exception ex){
+            }
+        
+    }
+}
